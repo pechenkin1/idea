@@ -1,0 +1,16 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com" />
+    <option name="token" value="hnNDn3qyw41bsDf3gNPN" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/pechenkin1/bso.git" />
+          <option name="name" value="bso" />
+          <option name="namespace" value="pechenkin1" />
+          <option name="sshUrl" value="git@gitlab.com:pechenkin1/bso.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
