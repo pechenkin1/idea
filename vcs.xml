@@ -34,8 +34,12 @@
           <option name="url" value="https://pechenkin@rbs-develop.paymentgate.ru/stash/scm/bsp/billing-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pechenkin1/FormRouter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\java\projects" />
+    <option name="cloneParentDir" value="~/IdeaProjects" />
   </component>
 </application>
