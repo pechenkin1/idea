@@ -8,11 +8,12 @@
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="paletteexpanded850579022" value="components,containers,windows,jgoodies" />
         <entry key="selection850579022" value="panel1" />
         <entry key="paletteexpanded732865644" value="components,containers" />
-        <entry key="selection732865644" value="desktopPane1" />
+        <entry key="selection732865644" value="internalFrame1" />
       </node>
     </node>
   </component>
