@@ -9,13 +9,14 @@
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="properties.expanded.category.expert" value="true" />
+      <entry key="chooser.beanclass.filterenabled" value="false" />
+      <entry key="chooser.beanclass.history1" value="com.myworktechs.visual.RoundRectBorder" />
       <node name="forms">
         <entry key="paletteexpanded850579022" value="components,containers,windows,jgoodies" />
         <entry key="selection850579022" value="panel1" />
         <entry key="paletteexpanded732865644" value="components,containers" />
         <entry key="selection732865644" value="internalFrame1" />
         <entry key="paletteexpanded-451229764" value="components,containers,windows" />
-        <entry key="selection-451229764" value="desktopPane1" />
       </node>
     </node>
   </component>
