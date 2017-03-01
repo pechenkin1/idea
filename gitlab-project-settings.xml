@@ -10,6 +10,12 @@
           <option name="namespace" value="pechenkin1" />
           <option name="sshUrl" value="git@gitlab.com:pechenkin1/bso.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/pechenkin1/soundator.git" />
+          <option name="name" value="soundator" />
+          <option name="namespace" value="pechenkin1" />
+          <option name="sshUrl" value="git@gitlab.com:pechenkin1/soundator.git" />
+        </ProjectDto>
       </list>
     </option>
   </component>
