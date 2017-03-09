@@ -13,6 +13,7 @@
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
       <entry key="chooser.beanclass.history1" value="com.myworktechs.visual.RoundRectBorder" />
+      <entry key="properties.expanded.events" value="true" />
       <node name="forms">
         <entry key="paletteexpanded850579022" value="components,containers,windows,jgoodies" />
         <entry key="selection850579022" value="panel1" />
