@@ -6,14 +6,16 @@
     <entry key="license.filechooser.lastdirpath" value="D:\Users\Pechenkin\Downloads" />
     <entry key="license.filechooser.size" value="500, 326" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
+      <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
-      <entry key="newform.superclass" value="javax.swing.JFrame" />
+      <entry key="newform.superclass" value="javax.swing.JDialog" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
       <entry key="chooser.beanclass.history1" value="com.myworktechs.visual.RoundRectBorder" />
       <entry key="properties.expanded.events" value="true" />
+      <entry key="newform.superclass.history2" value="javax.swing.JDialog" />
+      <entry key="newform.buttonbar" value="ok" />
       <node name="forms">
         <entry key="paletteexpanded850579022" value="components,containers,windows,jgoodies" />
         <entry key="selection850579022" value="panel1" />
