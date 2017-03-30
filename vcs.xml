@@ -39,11 +39,14 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="pechenkin1" />
+          <option name="url" value="https://gitlab.com/pechenkin1/soundator.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="~/IdeaProjects" />
+    <option name="cloneParentDir" value="c:\java\projects" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>

@@ -1,7 +1,7 @@
 <application>
   <component name="SettingsState">
     <option name="host" value="https://gitlab.com" />
-    <option name="token" value="hnNDn3qyw41bsDf3gNPN" />
+    <option name="token" value="rbt-VzoUPsDJhgQoto7b" />
     <option name="projects">
       <list>
         <ProjectDto>
@@ -9,6 +9,12 @@
           <option name="name" value="bso" />
           <option name="namespace" value="pechenkin1" />
           <option name="sshUrl" value="git@gitlab.com:pechenkin1/bso.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/pechenkin1/soundator.git" />
+          <option name="name" value="soundator" />
+          <option name="namespace" value="pechenkin1" />
+          <option name="sshUrl" value="git@gitlab.com:pechenkin1/soundator.git" />
         </ProjectDto>
       </list>
     </option>
