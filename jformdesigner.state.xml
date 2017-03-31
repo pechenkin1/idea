@@ -2,21 +2,29 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
     <entry key="updates.lastcheckedversion" value="6.0.0.0.84" />
-    <entry key="updates.lastchecked" value="1490904090731" />
+    <entry key="updates.lastchecked" value="1490684306976" />
+    <entry key="license.filechooser.lastdirpath" value="D:\Users\Pechenkin\Downloads" />
+    <entry key="license.filechooser.size" value="500, 326" />
     <node name="designer">
-      <entry key="newcontainer.layoutmanager" value="java.awt.FlowLayout" />
+      <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
-      <entry key="newform.superclass" value="javax.swing.JFrame" />
+      <entry key="newform.superclass" value="javax.swing.JDialog" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="properties.expanded.category.expert" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
       <entry key="chooser.beanclass.history1" value="com.myworktechs.visual.RoundRectBorder" />
+      <entry key="properties.expanded.events" value="true" />
+      <entry key="newform.superclass.history2" value="javax.swing.JDialog" />
+      <entry key="newform.buttonbar" value="ok" />
       <node name="forms">
         <entry key="paletteexpanded850579022" value="components,containers,windows,jgoodies" />
         <entry key="selection850579022" value="panel1" />
         <entry key="paletteexpanded732865644" value="components,containers" />
         <entry key="selection732865644" value="internalFrame1" />
         <entry key="paletteexpanded-451229764" value="components,containers,windows" />
+        <entry key="selection1152987523" value="table1" />
+        <entry key="paletteexpanded1152987523" value="components,containers" />
+        <entry key="selection-1515395668" value="button1" />
       </node>
     </node>
   </component>
