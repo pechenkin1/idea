@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Directory '[upga] - ...\src\main\java\ru\bpc\upga\front\soap\payment\aero'" />
+    <option name="defaultScopeName" value="Directory '[upga] - ...\src\main\java\ru\bpc\upga\front\soap\payment\aero'" />
+    <option name="SEARCH_SCOPE" value="Directory '[upga] - ...\src\main\java\ru\bpc\upga\front\soap\payment\aero'" />
   </component>
 </application>
