@@ -1,5 +1,7 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="submit-immediately" value="true" />
+    <option name="execute-inside-option" value="5" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
