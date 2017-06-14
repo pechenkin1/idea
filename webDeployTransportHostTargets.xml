@@ -1,0 +1,28 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="2397cce1-3ebc-44d3-998e-e94eb46f5357" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5b15ef09-c833-4fa6-8060-8d3f0723001f" />
+              <id>5b15ef09-c833-4fa6-8060-8d3f0723001f</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/opt/jetty9-uralairproxy/" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="2397cce1-3ebc-44d3-998e-e94eb46f5357" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="cf38b57f-68ae-4389-b4a6-9bf4878e71e2" />
+              <id>cf38b57f-68ae-4389-b4a6-9bf4878e71e2</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>
