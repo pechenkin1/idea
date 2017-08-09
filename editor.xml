@@ -4,6 +4,11 @@
     <option name="FONT_SCALE" value="0.9166667" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="SqlEditorOptions">
