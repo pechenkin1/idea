@@ -71,6 +71,7 @@
     <option name="cloneParentDir" value="C:\java\projects" />
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/java/projects/uralair" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
